@@ -35,18 +35,18 @@ I enjoy building scalable applications, contributing to open-source, and learnin
 A **MERN Stack Learning Management System** with:  
 ✔️ Student Enrollment | ✔️ Assignment Submissions | ✔️ Instructor Tools | ✔️ Role-Based Dashboards  
 
-🔗 https://github.com/MaaNmu/FYP_LMS  
+🔗 [EduMinds Repository](https://github.com/MaaNmu/FYP_LMS)  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rehmanmujahid&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmanmujahid&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaaNmu&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaaNmu&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehmanmujahid&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaaNmu&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -54,7 +54,7 @@ A **MERN Stack Learning Management System** with:
 ## 🤝 Connect With Me
 <p align="center">
   <a href="mailto:rrehmanmujahid@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="www.linkedin.com/in/rehman-mujahid-39759a37b" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/rehman-mujahid-39759a37b" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/MaaNmu" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
