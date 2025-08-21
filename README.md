@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Rehman+Mujahid" alt="Banner" />
+  <img src="./Screenshot 2025-08-21 111617" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rehman Mujahid</h1>
